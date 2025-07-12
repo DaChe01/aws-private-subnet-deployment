@@ -1,0 +1,40 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# SSH keys (never commit keys!)
+*.pem
+*.key
+
+# Node modules (if any frontend/backend included)
+node_modules/
+
+# Python cache (if any Python used)
+__pycache__/
+*.pyc
+
+# Terraform or Infra state files (if using)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Local env or secrets
+.env
+.env.*
+
+# Output & temp files
+*.out
+*.bak
+*.swp
+*.tmp
+
+# Ignore screenshots or local test files
+assets/test/
+assets/*.tmp.png
