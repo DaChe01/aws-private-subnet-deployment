@@ -15,6 +15,7 @@ This project demonstrates how to build a **secure, high-availability AWS infrast
 ## 🧱 Architecture
 
 ![Architecture](./assets/architecture.png)
+
 *Based on architecture from [AWS Docs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)*
 
 ---
@@ -145,7 +146,7 @@ This project demonstrates how to build a **secure, high-availability AWS infrast
 
 Here are some key screenshots from the setup and testing process:
 
-### 🏗️ VPC Configuration
+### VPC Configuration
 ![VPC](./assets/vpc.png)
 
 ### 🚀 Auto Scaling Group
@@ -160,6 +161,7 @@ Here are some key screenshots from the setup and testing process:
 ### ✅ App Running in Browser
 ![Test](./assets/test.png)
 
+---
 
 ## 📎 Credits
 
